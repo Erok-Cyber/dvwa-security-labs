@@ -6,7 +6,7 @@ Input:
 
 `1`
 
-![Normal input](screenshots/01-normal-input.png)
+![Normal input](Normal-input.png)
 
 ### SQL syntax error
 
@@ -14,7 +14,7 @@ Input:
 
 `'`
 
-![SQL error](screenshots/02-sql-error.png)
+![SQL error](sql-error.png)
 
 ### Security level
 
