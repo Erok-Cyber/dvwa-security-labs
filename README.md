@@ -14,7 +14,6 @@ Hands-on web application security testing using Damn Vulnerable Web Application 
 ## Labs
 
 ### 01 - SQL Injection
-
 Status: Completed
 
 Topics covered:
@@ -22,25 +21,25 @@ Topics covered:
 - Web service enumeration
 - HTTP reconnaissance
 - Technology identification
-- SQL Injection discovery
+- SQL injection discovery
 - Input validation testing
 - SQL syntax errors
-- Tautology-based SQL Injection
+- Tautology-based SQL injection
 - Impact assessment
 - Security levels in DVWA
 
-### Methodology
+### 02 - SQL Injection (Blind)
+Status: In progress
 
-The labs follow a basic penetration testing workflow:
+Topics covered:
 
-1. Reconnaissance
-2. Enumeration
-3. Vulnerability identification
-4. Controlled exploitation
-5. Impact assessment
-6. Remediation
-7. Documentation
-
+- Blind SQL injection
+- Boolean-based SQL injection
+- Response analysis
+- Input validation testing
+- Database behavior analysis
+- Security impact assessment
+  
 ## Disclaimer
 
 All testing documented in this repository was performed against intentionally vulnerable applications inside an isolated local virtual lab.
