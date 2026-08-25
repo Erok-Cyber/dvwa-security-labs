@@ -21,6 +21,7 @@ Input:
 DVWA was configured to use the Low security level for the controlled lab exercise.
 
 
+
 ### Successful SQL Injection
 
 Input:
