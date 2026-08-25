@@ -2,7 +2,14 @@
 
 Status: Completed
 
+
 ## Evidence
+
+
+### Security level
+
+DVWA was configured to use the Low security level for the controlled lab exercise.
+
 
 ### Normal input
 
@@ -23,12 +30,6 @@ A malformed input caused a database syntax error.
 This indicates that user input is being passed to the SQL query without proper sanitization.
 
 ![SQL error](sql-error.png)
-
-
-### Security level
-
-DVWA was configured to use the Low security level for the controlled lab exercise.
-
 
 
 ### Successful SQL Injection
