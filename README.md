@@ -15,7 +15,7 @@ Hands-on web application security testing using Damn Vulnerable Web Application 
 
 ### 01 - SQL Injection
 
-Status: In progress
+Status: Completed
 
 Topics covered:
 
