@@ -3,6 +3,17 @@
 Status: Completed
 
 
+## Objective
+
+The objective of this lab was to identify and demonstrate SQL injection
+in the DVWA User ID parameter.
+
+
+## Methodology
+
+Testing was performed using normal input, malformed input, and a
+tautology-based SQL injection payload against the isolated DVWA lab.
+
 ## Evidence
 
 
