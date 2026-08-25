@@ -30,4 +30,4 @@ Input:
 
 The application returned multiple database records.
 
-![Successful SQL Injection](Successful-sql-injection.png)
+![Successful SQL Injection](Successful-sql-injection1.png)
