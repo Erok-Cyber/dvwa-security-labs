@@ -29,7 +29,7 @@ The first step was to test the application with a normal User ID.
 
 This established the normal behaviour of the application.
 
-**Evidence:** `01-normal-input.png`
+**Evidence:** ![Normal input](Normal-input.png)
 
 ---
 
