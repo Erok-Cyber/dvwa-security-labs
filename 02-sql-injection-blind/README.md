@@ -180,7 +180,7 @@ The `admin` password value has a length of:
 
 The actual password value is not included in this repository.
 
-![Password length true](05-password-legnth-true.png)
+![Password length true](05-password-length-true.png)
 
 ---
 
