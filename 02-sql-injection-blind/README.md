@@ -181,6 +181,7 @@ The `admin` password value has a length of:
 The actual password value is not included in this repository.
 
 ![Password length true](05-password-length-true.png)
+![Password length false](06-password-length-false.png)
 
 ---
 
@@ -243,9 +244,9 @@ The following screenshots document the investigation:
 | `01-normal-input.png` | Normal application behaviour |
 | `02-boolean-true.png` | True SQL condition returns a result |
 | `03-boolean-false.png` | False SQL condition returns no result |
-| `04-source-code.png` | Vulnerable SQL query in source code |
-| `05-password-length-true.png` | Tests demonstrating the correct password length |
-| `06-password-length-false.png` | Tests demonstrating the wrong password length |
+| `04-source-code.png` | Vulnerable SQL query |
+| `05-password-length-true.png` | Password length is greater than 31 characters |
+| `06-password-length-false.png` | Password length is not greater than 32 characters |
 
 
 ---
