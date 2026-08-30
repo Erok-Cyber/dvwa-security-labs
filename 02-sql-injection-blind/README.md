@@ -29,7 +29,6 @@ The first step was to test the application with a normal User ID.
 
 This established the normal behaviour of the application.
 
-**Evidence:** 
 ![Normal input](01-Normal-input.png)
 
 ---
@@ -46,7 +45,6 @@ The application returned user information.
 
 This indicates that the condition evaluated to true.
 
-**Evidence:** 
 ![Boolean True](02-boolean-true.png)
 
 ### False condition
