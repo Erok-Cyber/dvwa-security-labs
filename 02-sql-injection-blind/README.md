@@ -55,7 +55,7 @@ The application returned no user information.
 
 This indicates that the condition evaluated to false.
 
-**Evidence:** `03-boolean-false.png`
+![Boolean False](03-boolean-false.png)
 
 ### Conclusion
 
@@ -79,7 +79,7 @@ The query is then executed using:
 
 The source also uses error suppression when executing the query, which contributes to the blind behaviour of the application.
 
-**Evidence:** `04-source-code.png`
+![Source code](04-source-code.png)
 
 ### Root Cause
 
@@ -180,7 +180,7 @@ The `admin` password value has a length of:
 
 The actual password value is not included in this repository.
 
-**Evidence:** `05-password-length.png`
+![Password length true](05-password-legnth-true.png)
 
 ---
 
@@ -244,7 +244,9 @@ The following screenshots document the investigation:
 | `02-boolean-true.png` | True SQL condition returns a result |
 | `03-boolean-false.png` | False SQL condition returns no result |
 | `04-source-code.png` | Vulnerable SQL query in source code |
-| `05-password-length.png` | Tests demonstrating the password length |
+| `05-password-length-true.png` | Tests demonstrating the correct password length |
+| `06-password-length-false.png` | Tests demonstrating the wrong password length |
+
 
 ---
 
